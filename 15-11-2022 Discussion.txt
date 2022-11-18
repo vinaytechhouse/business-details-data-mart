@@ -1,7 +1,9 @@
 
 Power BI Account to work with Power BI Desktop and Service
 
-User name: vinaytech_1011@vinaytechhouse.com
+cloud service
+
+User name: vinaytech_1014@vinaytechhouse.com
 Password: vinaytech@2022
 
 Note:
@@ -10,8 +12,9 @@ If you have valid organizational email address, create your own account and work
 PBI related operations. 
 
 
-Import PointL Don;t try to recreate PBI account from this already converted Power BI account
+Import PointL Don't try to recreate PBI account from this already converted Power BI account
 
+=======================================================
 =======================================================
 Practical:
 a) Open PBI Cloud Service (app.powerbi.com) in browser, login with the above details
