@@ -1,0 +1,57 @@
+
+Power BI Account to work with Power BI Desktop and Service
+
+User name: vinaytech_1011@vinaytechhouse.com
+Password: vinaytech@2022
+
+Note:
+
+If you have valid organizational email address, create your own account and work on, otherwise use this for
+PBI related operations. 
+
+
+Import PointL Don;t try to recreate PBI account from this already converted Power BI account
+
+=======================================================
+Practical:
+a) Open PBI Cloud Service (app.powerbi.com) in browser, login with the above details
+b) Left handside navigation pane, workspaces, create workspace-->Image, Logo, Description, and Choose Pro
+c) After workspace creation, click deployment pipeline...you can't see because of premium feature
+d) Workspace--> Settings--> Premium Tab--> Choose Prepimum Per User[ After save Diamond symbol added]
+e) Click deployment pipeline after the previous operation, you will see a dialogue box
+
+Add items to workspace:
+
+Get data / New -> Upload file--> Choose Excel in import method and browse method...
+
+
+Download and install Power BI Desktop
+
+Download and install Power BI Report Server Desktop
+
+
+End-End BI Process Practical:
+===================
+Our Institute Data--> Power BI Desktop (Extract--> Transormation->Model-->Secure-->Visuals-->)--->Publish-->Power BI Cloud(App.powerbi.com)-->
+									Share / subscribe the report
+									Or create app and share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
